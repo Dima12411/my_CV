@@ -17,11 +17,11 @@
     justify-content: space-around;
     border: 1px solid black;
     height: 250px;
-    width: 350px;
+    width: 280px;
 }
 
 .input {
-    width: 300px;
+    width: 90%;
     height: 50px;
     text-align: center;
     font-weight: bold;
@@ -29,7 +29,7 @@
 }
 
 .textarea {
-    width: 302px;
+    width: 90%;
     height: 75px;
     text-align: center;
     font-weight: bold;
