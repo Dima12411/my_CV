@@ -1,0 +1,21 @@
+.skillsBlock {
+    height: 100vh;
+    background-color: #9bc49b;
+}
+
+.skillsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: #f6f1f1;
+}
+
+.skills {
+    border: 1px solid black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

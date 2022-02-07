@@ -1,0 +1,27 @@
+.remoteWorkBlock {
+    height: 180px;
+    background-color: #b3eff1;
+}
+
+.remoteWorkContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.spanWork {
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.buttonWork {
+    width: 180px;
+    height: 50px;
+    background-color: #de2626;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
