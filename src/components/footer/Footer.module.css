@@ -1,6 +1,6 @@
 .footerBlock {
     background-color: #d0c6c6;
-    height: 20vh;
+    min-height: 20vh;
 }
 
 .footerContainer {
