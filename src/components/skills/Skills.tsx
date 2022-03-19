@@ -4,6 +4,7 @@ import styleContainer from '../../common/styles/Container.module.css'
 import Skill from "./skill/Skill";
 import {v1} from "uuid";
 
+
 type SkillsType = {
     id: string
     title: string

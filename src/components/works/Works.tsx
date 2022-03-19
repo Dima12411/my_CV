@@ -1,8 +1,8 @@
 import React from 'react';
 import style from './Works.module.css'
 import stylesContainer from '../../common/styles/Container.module.css'
-import {v1} from "uuid";
 import Work from "./work/Work";
+import {v1} from "uuid";
 
 type WorksType = {
     id: string
